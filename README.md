@@ -4,6 +4,8 @@
 
 Coursework, projects and an internship from my B.S. in Mechanical Engineering at National Cheng Kung University (2020–2024).
 
+[Flora Liu · floraliu.dev](https://floraliu.dev/about#work)
+
 </div>
 
 <details open>
